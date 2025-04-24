@@ -1,0 +1,11 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.1.1
+argparse
+openpyxl==3.1.2
+matplotlib==3.8.1
+folium==0.14.0
+streamlit==1.27.0
+streamlit-folium==0.13.0
+plotly==5.16.1
+orjson==3.9.10 
